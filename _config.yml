@@ -10,7 +10,7 @@ defaults:
       layout: "post"
   -
     scope:
-      path: "assets/img"
+      path: "assets/img_my"
     values:
       image: true
 
