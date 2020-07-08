@@ -1,6 +1,6 @@
 ---
 title: "Markdown 语法及渲染"
-date: 2018-08-12 21:30:23 +0800
+date: 2020-07-08 21:30:23 +0800
 category: Markdown
 tags: [Markdown, Minimalism]
 excerpt: 本文主要说明一些常用的 Markdown 语法及主题 Minimalism 中的渲染效果。
