@@ -66,14 +66,14 @@ Dataviz7: Among them, many EU Member States have already adopted legislation to 
 [https://www.furfreealliance.com/wp-content/uploads/2019/06/Facts-on-fur-farming-legislation.pdf)
 
 **All data used in this project are summerized in this file.(click [here](https://drive.google.com/file/d/1gHXY1NlPDEMdsHKhrQfYpvp11Qwqg6PR/view?usp=sharing) to get the data.)**
-***
+
 
 ### Method and medium
 I planned to do this project using **Shorthand**.
 
 I will put a photo of the poor fox on the homepage to get the attention of the audience using the “Text Over Media” section. Then I will start my story with the status quo of the people owning fur coat using “Reveal” section. In the “Text”, I will add two visualizations showing the animals killed each year and animals' terrorist in nature vs. fur farm. Then, I will introduce more information about animals'life in farm and give some bloody pictures showing the poor animals might be skinned when thay are alive. At this time, audience will be mad of humans' brutal acitivities. Then, I will use 'text' again to show two more dataviz about U.S. mink sale and people's attitude. After that, I will introduce that government are taking actions. Two dataviz will be given in 'Text'.
 Finally, I will appeal to audience for stopping buying fur products.  I will also express my understanding of no buying no killings and it takes for all of us.  I will add a “Media” section and embed some link to animal protection website.
-***
+
 ## Design and user research
 
 ### Sketches and storyboards
@@ -81,23 +81,23 @@ Finally, I will appeal to audience for stopping buying fur products.  I will als
 ![sketches](https://www.z4a.net/images/2020/07/10/sketch.jpg)
 **Storyboard**
 ![1](https://www.z4a.net/images/2020/07/10/1.png)
-***
+
 ![2](https://www.z4a.net/images/2020/07/10/2.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/3.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/3.2.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/4.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/5.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/6.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/8.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/9.png)
-***
+
 
 ### User research protocol and findings
 
@@ -126,13 +126,15 @@ People in three groups: Teenagers under 18 years old; People aged between 18-30,
 **Script**:
 
 I will begin with a brief introduction: “Hello, my name is Zichen Fan, a graduate student in Carnegie Mellon University. Could you help me do a survey in 10 min?” If get the positive answer, I will continue with “I want to get feedback from the audience to improve my project. Please feel free to express any of your opinions :)”. Then, I will guess the age of my interviewer and ask “Are you interested in fashion?” “Do you like fur products?” to distinguish the audience group. After that, I will ask my main questions. Finally, the interview will ends in “Do you have any other questions about the webpage?” and “Thank you so much for your time and patience! ”.
-***
+
 **Findings**
+
 I completed three interviews with my friends and relatives. One of them is a cool girl who likes wearing brushy coats. One of them is my aunt who like buying clothes. One of them is my cousin who is in high school and doesn’t care about fashion and animals.
 
 I summarized the feedback of the survey.
 
 **Positive:**
+
 • They can grasp the topic.
 
 • Most of the visualizations were clear.
@@ -178,65 +180,72 @@ I summarized the feedback of the survey.
 • Add the conclusion.
 
 • Add the “learn more” button providing method to donate.
-***
+
 ### Wireframes
 After getting feedback, I improved my storyboard.
 ![1](https://www.z4a.net/images/2020/07/10/1.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/2.png)
-***
+
 ![2](https://www.z4a.net/images/2020/07/10/1_2.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/2_1.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/2_2.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/1_5.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/1_6.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/1_7.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/1_9.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/8.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/1_10.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/9.png)
-***
+
 ![1](https://www.z4a.net/images/2020/07/10/1_11.png)
-***
-***
+
+
 ## Final data story
 ### Intended audience
 
 My intended audience is everyone. At first, I intend to let people protect animals but the topic is too large. I searched many information about the poor things animals suffered and got the findings like bunch fires and slaughters. Since few information I can get about the fires, I focused my topic on animal slaughters.  Fur farm is one of the main area killing most animals unnecessarily.  Animals are treated crudely and killed brutal there.  This kind of slaughter is because of the huge demand of fur fashion. Since no buying no killing, I intend to let people stop buying fur products or concern more to those organizations that help animals.
-***
+
 ### Works
 
 So far, I could feel that as my understanding of how to tell an entire story deepens and my project was improved a lot.  At first, I only had a general idea of what topic I want to tell.  After drawing the outline, I defined the setup, conflict and resolution to get a clear logic of the story.  Making sketches helped me think how to visualize the data pointing to my topic. According to the sketches, I created several dataviz and put them into the first storyboard. I generated a user research protocol before I conducted user research interview. I got really useful feedback from the interviewees. I found lots of problems which I couldn’t find by myself.  Since I was very familiar with my topic and the data, I could easily grasp the mean of the dataviz. My friends who were strange with my project were able to point out which dataviz was confused and where had some logic problems.  I recreated these dataviz and added many transit between the dataviz to make the story more smooth.  Also, I put some poor animals images into my storyboard directly at first, the nice grader advised me to add a warning before showing the scared images. All of them helped me improve my project.
-***
+
 ### Final project link
 
 Click [here](https://carnegiemellon.shorthandstories.com/zichen-say-no-to-fur/index.html) to view my final project.
-***
+
 ### Reference
 Data Source:
 
-[1] “FICA Facts”, Fur information council of America. [Online].Available: https://www.fur.org/fica-facts/.[Accessed: 15-Feb-2020].
+[1] “FICA Facts”, Fur information council of America.[Online].
+Available: https://www.fur.org/fica-facts/.[Accessed: 15-Feb-2020].
 
-[2] “The Fur Trade”, Human Society Internatinal. [Online].Available:https://www.hsi.org/news-media/fur-trade/. [Accessed: 15-Feb-2020].
+[2] “The Fur Trade”, Human Society Internatinal.[Online].
+Available:https://www.hsi.org/news-media/fur-trade/. [Accessed: 15-Feb-2020].
 
-[3] “International Fur Farm Statistics”, APFA. [Online].Available:https://thefurbearers.com/sites/default/files/downloads/FurFarmStatsJuly2014.pdf. [Accessed: 15-Feb-2020].
+[3] “International Fur Farm Statistics”, APFA.[Online].
+Available:https://thefurbearers.com/sites/default/files/downloads/FurFarmStatsJuly2014.pdf. [Accessed: 15-Feb-2020].
 
-[4] “U.S. Mink Production, 2004 – 2018”, Fur Commission USA. [Online].Available: https://furcommission.com/production-statistics/. [Accessed: 15-Feb-2020].
+[4] “U.S. Mink Production, 2004 – 2018”, Fur Commission USA.[Online].
+Available: https://furcommission.com/production-statistics/. [Accessed: 15-Feb-2020].
 
-[5] “Public Attitudes Toward Fur”, Human Research Council. [Online].Available: https://faunalytics.org/wp-content/uploads/2015/05/Fundamentals_Fur.pdf. [Accessed: 15-Feb-2020].
+[5] “Public Attitudes Toward Fur”, Human Research Council.[Online].
+Available: https://faunalytics.org/wp-content/uploads/2015/05/Fundamentals_Fur.pdf. [Accessed: 15-Feb-2020].
 
-[6] “Fur Production and Fur Laws”, Animal Legal&Historical Center. [Online].Available:https://www.animallaw.info/intro/fur-production-and-fur-laws. [Accessed: 15-Feb-2020].
+[6] “Fur Production and Fur Laws”, Animal Legal&Historical Center.[Online].
+Available:https://www.animallaw.info/intro/fur-production-and-fur-laws. [Accessed: 15-Feb-2020].
 
-[7] “Fact on fur farming legislation”, Fur Free Alliance. [Online].Available:https://www.furfreealliance.com/wp-content/uploads/2019/06/Facts-on-fur-farming-legislation.pdf [Accessed: 15-Feb-2020].
+[7] “Fact on fur farming legislation”, Fur Free Alliance.[Online].
+Available:https://www.furfreealliance.com/wp-content/uploads/2019/06/Facts-on-fur-farming-legislation.pdf [Accessed: 15-Feb-2020].
 
 Image Source:
 
