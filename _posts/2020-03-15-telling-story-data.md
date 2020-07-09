@@ -78,25 +78,25 @@ Finally, I will appeal to audience for stopping buying fur products.  I will als
 
 ### Sketches and storyboards
 **Sketches**
-![sketches](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/sketch_new.jpg)
+![sketches](tell_story_data/sketch_new.jpg)
 **Storyboard**
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1.png)
+![1](tell_story_data/1.png)
 ***
-![2](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/2.png)
+![2](tell_story_data/2.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/3.png)
+![1](tell_story_data/3.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/3.2.png)
+![1](tell_story_data/3.2.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/4.png)
+![1](tell_story_data/4.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/5.png)
+![1](tell_story_data/5.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/6.png)
+![1](tell_story_data/6.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/8.png)
+![1](tell_story_data/8.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/9.png)
+![1](tell_story_data/9.png)
 ***
 
 ### User research protocol and findings
@@ -181,31 +181,31 @@ I summarized the feedback of the survey.
 ***
 ### Wireframes
 After getting feedback, I improved my storyboard.
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1.png)
+![1](tell_story_data/1.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/2.png)
+![1](tell_story_data/2.png)
 ***
-![2](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_2.png)
+![2](tell_story_data/1_2.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/2_1.png)
+![1](tell_story_data/2_1.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/2_2.png)
+![1](tell_story_data/2_2.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_5.png)
+![1](tell_story_data/1_5.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_6.png)
+![1](tell_story_data/1_6.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_7.png)
+![1](tell_story_data/1_7.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_9.png)
+![1](tell_story_data/1_9.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/8.png)
+![1](tell_story_data/8.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_10.png)
+![1](tell_story_data/1_10.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/9.png)
+![1](tell_story_data/9.png)
 ***
-![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_11.png)
+![1](tell_story_data/1_11.png)
 ***
 ***
 ## Final data story
