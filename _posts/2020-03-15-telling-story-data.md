@@ -78,7 +78,7 @@ Finally, I will appeal to audience for stopping buying fur products.  I will als
 
 ### Sketches and storyboards
 **Sketches**
-![sketches](./tell_story_data/sketch.jpg)
+![sketches](../tell_story_data/sketch.jpg)
 **Storyboard**
 ![1](tell_story_data/1.png)
 ***
