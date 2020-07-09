@@ -2,7 +2,7 @@
 title: "Telling Story with Data --- Say No to Fur"
 date: 2020-03-15 21:10:52 +0800
 category: Markdown
-tags: [data visualization]
+tags: [data_visualization]
 excerpt: This blog tells the whole process of a data visualization project, which focuses on calling on people refusing buying real fur products.
 ---
 
@@ -33,7 +33,7 @@ Dataviz6: Laws are diverse in strength in different countries.
 
 Dataviz7: Among them, many EU Member States have already adopted legislation to prohibit or limit fur farming, but further measures are needed.
 
-![storyline](tell_story_data/storyline_new.jpg)
+![storyline](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/storyline_new.jpg)
 
 ***
 ### Data
@@ -78,25 +78,25 @@ Finally, I will appeal to audience for stopping buying fur products.  I will als
 
 ### Sketches and storyboards
 **Sketches**
-![sketches](tell_story_data/sketch_new.jpg)
+![sketches](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/sketch_new.jpg)
 **Storyboard**
-![1](tell_story_data/1.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1.png)
 ***
-![2](tell_story_data/2.png)
+![2](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/2.png)
 ***
-![1](tell_story_data/3.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/3.png)
 ***
-![1](tell_story_data/3.2.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/3.2.png)
 ***
-![1](tell_story_data/4.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/4.png)
 ***
-![1](tell_story_data/5.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/5.png)
 ***
-![1](tell_story_data/6.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/6.png)
 ***
-![1](tell_story_data/8.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/8.png)
 ***
-![1](tell_story_data/9.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/9.png)
 ***
 
 ### User research protocol and findings
@@ -181,31 +181,31 @@ I summarized the feedback of the survey.
 ***
 ### Wireframes
 After getting feedback, I improved my storyboard.
-![1](tell_story_data/1.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1.png)
 ***
-![1](tell_story_data/2.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/2.png)
 ***
-![2](tell_story_data/1_2.png)
+![2](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_2.png)
 ***
-![1](tell_story_data/2_1.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/2_1.png)
 ***
-![1](tell_story_data/2_2.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/2_2.png)
 ***
-![1](tell_story_data/1_5.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_5.png)
 ***
-![1](tell_story_data/1_6.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_6.png)
 ***
-![1](tell_story_data/1_7.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_7.png)
 ***
-![1](tell_story_data/1_9.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_9.png)
 ***
-![1](tell_story_data/8.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/8.png)
 ***
-![1](tell_story_data/1_10.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_10.png)
 ***
-![1](tell_story_data/9.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/9.png)
 ***
-![1](tell_story_data/1_11.png)
+![1](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/1_11.png)
 ***
 ***
 ## Final data story
