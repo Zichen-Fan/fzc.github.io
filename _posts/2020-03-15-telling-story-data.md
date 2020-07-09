@@ -33,7 +33,7 @@ Dataviz6: Laws are diverse in strength in different countries.
 
 Dataviz7: Among them, many EU Member States have already adopted legislation to prohibit or limit fur farming, but further measures are needed.
 
-![storyline](https://github.com/Zichen-Fan/fzc.github.io/blob/master/_posts/tell_story_data/storyline_new.jpg)
+![storyline](hhttps://www.z4a.net/images/2020/07/10/storyline_new.jpg)
 
 ***
 ### Data
@@ -78,25 +78,25 @@ Finally, I will appeal to audience for stopping buying fur products.  I will als
 
 ### Sketches and storyboards
 **Sketches**
-![sketches](./tell_story_data/sketch.jpg)
+![sketches](https://www.z4a.net/images/2020/07/10/sketch.jpg)
 **Storyboard**
-![1](tell_story_data/1.png)
+![1](https://www.z4a.net/images/2020/07/10/1.png)
 ***
-![2](tell_story_data/2.png)
+![2](https://www.z4a.net/images/2020/07/10/2.png)
 ***
-![1](tell_story_data/3.png)
+![1](https://www.z4a.net/images/2020/07/10/3.png)
 ***
-![1](tell_story_data/3.2.png)
+![1](https://www.z4a.net/images/2020/07/10/3.2.png)
 ***
-![1](tell_story_data/4.png)
+![1](https://www.z4a.net/images/2020/07/10/4.png)
 ***
-![1](tell_story_data/5.png)
+![1](https://www.z4a.net/images/2020/07/10/5.png)
 ***
-![1](tell_story_data/6.png)
+![1](https://www.z4a.net/images/2020/07/10/6.png)
 ***
-![1](tell_story_data/8.png)
+![1](https://www.z4a.net/images/2020/07/10/8.png)
 ***
-![1](tell_story_data/9.png)
+![1](https://www.z4a.net/images/2020/07/10/9.png)
 ***
 
 ### User research protocol and findings
@@ -181,31 +181,31 @@ I summarized the feedback of the survey.
 ***
 ### Wireframes
 After getting feedback, I improved my storyboard.
-![1](tell_story_data/1.png)
+![1](https://www.z4a.net/images/2020/07/10/1.png)
 ***
-![1](tell_story_data/2.png)
+![1](https://www.z4a.net/images/2020/07/10/2.png)
 ***
-![2](tell_story_data/1_2.png)
+![2](https://www.z4a.net/images/2020/07/10/1_2.png)
 ***
-![1](tell_story_data/2_1.png)
+![1](https://www.z4a.net/images/2020/07/10/2_1.png)
 ***
-![1](tell_story_data/2_2.png)
+![1](https://www.z4a.net/images/2020/07/10/2_2.png)
 ***
-![1](tell_story_data/1_5.png)
+![1](https://www.z4a.net/images/2020/07/10/1_5.png)
 ***
-![1](tell_story_data/1_6.png)
+![1](https://www.z4a.net/images/2020/07/10/1_6.png)
 ***
-![1](tell_story_data/1_7.png)
+![1](https://www.z4a.net/images/2020/07/10/1_7.png)
 ***
-![1](tell_story_data/1_9.png)
+![1](https://www.z4a.net/images/2020/07/10/1_9.png)
 ***
-![1](tell_story_data/8.png)
+![1](https://www.z4a.net/images/2020/07/10/8.png)
 ***
-![1](tell_story_data/1_10.png)
+![1](https://www.z4a.net/images/2020/07/10/1_10.png)
 ***
-![1](tell_story_data/9.png)
+![1](https://www.z4a.net/images/2020/07/10/9.png)
 ***
-![1](tell_story_data/1_11.png)
+![1](https://www.z4a.net/images/2020/07/10/1_11.png)
 ***
 ***
 ## Final data story
