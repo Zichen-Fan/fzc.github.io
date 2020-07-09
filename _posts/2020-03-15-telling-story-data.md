@@ -35,7 +35,6 @@ Dataviz7: Among them, many EU Member States have already adopted legislation to 
 
 ![storyline](https://www.z4a.net/images/2020/07/10/storyline_new.jpg)
 
-***
 ### Data
 1 19% of women own a fur coat and 7% of men wear fur.
 
