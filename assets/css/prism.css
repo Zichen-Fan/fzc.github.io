@@ -10,7 +10,7 @@ code[class*="language-"],
 pre[class*="language-"] {
 	color: #ccc;
 	background: none;
-	font-family: helvetica, helvetica, helvetica, 'Andale Mono', 'Ubuntu Mono', helvetica;
+	font-family: Helvetica, Helvetica, Helvetica, Helvetica, Helvetica, Helvetica;
 	text-align: left;
 	white-space: pre;
 	word-spacing: normal;
