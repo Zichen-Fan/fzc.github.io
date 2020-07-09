@@ -1,10 +1,10 @@
 ---
-layout: post
 title: "Telling Story with Data --- Say No to Fur"
 date: 2020-03-15 21:10:52 +0800
-categories: data visualization
+category: Markdown
+tags: [data visualization]
+excerpt: This blog tells the whole process of a data visualization project, which focuses on calling on people refusing buying real fur products.
 ---
-This blog tells the whole process of a data visualization project, which focuses on calling on people refusing buying real fur products.
 
 ## The idea
 
@@ -78,25 +78,25 @@ Finally, I will appeal to audience for stopping buying fur products.  I will als
 
 ### Sketches and storyboards
 **Sketches**
-![sketches](sketch_new.jpg)
+![sketches](tell_story_data/sketch_new.jpg)
 **Storyboard**
-![1](1.png)
+![1](tell_story_data/1.png)
 ***
-![2](2.png)
+![2](tell_story_data/2.png)
 ***
-![1](3.png)
+![1](tell_story_data/3.png)
 ***
-![1](3.2.png)
+![1](tell_story_data/3.2.png)
 ***
-![1](4.png)
+![1](tell_story_data/4.png)
 ***
-![1](5.png)
+![1](tell_story_data/5.png)
 ***
-![1](6.png)
+![1](tell_story_data/6.png)
 ***
-![1](8.png)
+![1](tell_story_data/8.png)
 ***
-![1](9.png)
+![1](tell_story_data/9.png)
 ***
 
 ### User research protocol and findings
@@ -181,31 +181,31 @@ I summarized the feedback of the survey.
 ***
 ### Wireframes
 After getting feedback, I improved my storyboard.
-![1](1.png)
+![1](tell_story_data/1.png)
 ***
-![1](2.png)
+![1](tell_story_data/2.png)
 ***
-![2](1_2.png)
+![2](tell_story_data/1_2.png)
 ***
-![1](2_1.png)
+![1](tell_story_data/2_1.png)
 ***
-![1](2_2.png)
+![1](tell_story_data/2_2.png)
 ***
-![1](1_5.png)
+![1](tell_story_data/1_5.png)
 ***
-![1](1_6.png)
+![1](tell_story_data/1_6.png)
 ***
-![1](1_7.png)
+![1](tell_story_data/1_7.png)
 ***
-![1](1_9.png)
+![1](tell_story_data/1_9.png)
 ***
-![1](8.png)
+![1](tell_story_data/8.png)
 ***
-![1](1_10.png)
+![1](tell_story_data/1_10.png)
 ***
-![1](9.png)
+![1](tell_story_data/9.png)
 ***
-![1](1_11.png)
+![1](tell_story_data/1_11.png)
 ***
 ***
 ## Final data story
@@ -254,25 +254,18 @@ Image Source:
 
 [final_story](https://carnegiemellon.shorthandstories.com/zichen-say-no-to-fur/index.html)
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## End
 
-<!--more-->
+本篇博客列举的语法模板部分参考了 [Cmd Markdown 编辑阅读器的语法说明] :+1:，感谢。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+---
 
-Jekyll also offers powerful support for code snippets:
+[^footnote1]: 这是第一个注脚的注解。
+[^footnote2]: 这是第二个注脚的注解。
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Minimalism]: https://github.com/showzeng/minimalism
+[kramdown]: https://github.com/gettalong/kramdown
+[Prism]: https://prismjs.com/
+[Emoji sheet]: https://www.webfx.com/tools/emoji-cheat-sheet/
+[Cmd Markdown 编辑阅读器的语法说明]: https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown
 
