@@ -33,7 +33,7 @@ Dataviz6: Laws are diverse in strength in different countries.
 
 Dataviz7: Among them, many EU Member States have already adopted legislation to prohibit or limit fur farming, but further measures are needed.
 
-![storyline](hhttps://www.z4a.net/images/2020/07/10/storyline_new.jpg)
+![storyline](https://www.z4a.net/images/2020/07/10/storyline_new.jpg)
 
 ***
 ### Data
