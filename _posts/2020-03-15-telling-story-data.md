@@ -78,7 +78,7 @@ Finally, I will appeal to audience for stopping buying fur products.  I will als
 
 ### Sketches and storyboards
 **Sketches**
-![sketches](http://github.com/Zichen-Fan/zichen-portfolio/sketch_new.jpg)
+![sketches](/Zichen-Fan/zichen-portfolio/blob/master/sketch.jpg?raw=true)
 **Storyboard**
 ![1](tell_story_data/1.png)
 ***
