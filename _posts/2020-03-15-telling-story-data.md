@@ -153,16 +153,11 @@ Click [here](https://carnegiemellon.shorthandstories.com/zichen-say-no-to-fur/in
 Available: https://www.fur.org/fica-facts/.[Accessed: 15-Feb-2020].
 2. “The Fur Trade”, Human Society Internatinal.[Online].
 Available:https://www.hsi.org/news-media/fur-trade/. [Accessed: 15-Feb-2020].
-3. “International Fur Farm Statistics”, APFA.[Online].
-Available:https://thefurbearers.com/sites/default/files/downloads/FurFarmStatsJuly2014.pdf. [Accessed: 15-Feb-2020].
-4. “U.S. Mink Production, 2004 – 2018”, Fur Commission USA.[Online].
-Available: https://furcommission.com/production-statistics/. [Accessed: 15-Feb-2020].
-5. “Public Attitudes Toward Fur”, Human Research Council.[Online].
-Available: https://faunalytics.org/wp-content/uploads/2015/05/Fundamentals_Fur.pdf. [Accessed: 15-Feb-2020].
-6. “Fur Production and Fur Laws”, Animal Legal&Historical Center.[Online].
-Available:https://www.animallaw.info/intro/fur-production-and-fur-laws. [Accessed: 15-Feb-2020].
-7.  “Fact on fur farming legislation”, Fur Free Alliance.[Online].
-Available:https://www.furfreealliance.com/wp-content/uploads/2019/06/Facts-on-fur-farming-legislation.pdf [Accessed: 15-Feb-2020].
+3. “International Fur Farm Statistics”, APFA.[Online].Available:https://thefurbearers.com/sites/default/files/downloads/FurFarmStatsJuly2014.pdf. [Accessed: 15-Feb-2020].
+4. “U.S. Mink Production, 2004 – 2018”, Fur Commission USA.[Online].Available: https://furcommission.com/production-statistics/. [Accessed: 15-Feb-2020].
+5. “Public Attitudes Toward Fur”, Human Research Council.[Online].Available: https://faunalytics.org/wp-content/uploads/2015/05/Fundamentals_Fur.pdf. [Accessed: 15-Feb-2020].
+6. “Fur Production and Fur Laws”, Animal Legal&Historical Center.[Online].Available:https://www.animallaw.info/intro/fur-production-and-fur-laws. [Accessed: 15-Feb-2020].
+7.  “Fact on fur farming legislation”, Fur Free Alliance.[Online].Available:https://www.furfreealliance.com/wp-content/uploads/2019/06/Facts-on-fur-farming-legislation.pdf [Accessed: 15-Feb-2020].
 
 ### Image Source:
 1. Photo by [Jonatan Pie](https://unsplash.com/photos/V__yW0wQCOs) on [Unsplash](https://unsplash.com/)
